@@ -1,6 +1,6 @@
 # A Noise-Oriented and Redundancy-Aware Instance Selection Framework
 
-This repository contains a Python 3 implementation of the biO-IS Framework, currently under review at the ACM Transactions on Information Systems (TOIS) journal.
+This repository contains the official python 3 implementation of the biO-IS Framework, currently under review at the ACM Transactions on Information Systems (TOIS) journal.
 
 ## Requirements
 
@@ -104,7 +104,7 @@ Each dataset contains the following files:
 
 ## IS Input Representation 
 
-The TF-IDF representation is used as input to all IS methods. Before creating the TFIDF matrix, we adopted the following steps as a pre-processing step: i. we removed stopwords using the standard list from the scikit-learn library [ 58 ] (version 0.23.2); and ii. we only kept features that appear in at least two documents.
+The TF-IDF representation is used as input to all IS methods. Before creating the TFIDF matrix, we adopted the following steps as a pre-processing step: i. we removed stopwords using the standard list from the scikit-learn library (version 0.23.2); and ii. we only kept features that appear in at least two documents.
 
 ## Output
 
