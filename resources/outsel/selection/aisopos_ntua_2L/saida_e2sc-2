@@ -1,0 +1,13 @@
+e2sc-2
+Namespace(datain='/home/waashk/e2sc-is/resources/datasets', dataset='aisopos_ntua_2L', filename='/home/waashk/e2sc-is/resources/outsel/selection/aisopos_ntua_2L//saida_e2sc-2', folds=10, inputdir='/home/waashk/e2sc-is/resources/datasets/aisopos_ntua_2L/tfidf/', inputrep='tfidf', method='e2sc-2', out='/home/waashk/e2sc-is/resources/outsel', outputdir='/home/waashk/e2sc-is/resources/outsel/selection/aisopos_ntua_2L/', overwrite=0, save=True, splitdir='/home/waashk/e2sc-is/resources/datasets/aisopos_ntua_2L/splits/', start_time='08-05-2023 15:59:41')
+times: [0.027907609939575195]
+
+				reducion: [0.248]
+
+				time mean: 0.027907609939575195
+
+				reducion mean: 0.248
+
+				reduced_len_mean: 188.0
+
+				original_len_mean: 250.0

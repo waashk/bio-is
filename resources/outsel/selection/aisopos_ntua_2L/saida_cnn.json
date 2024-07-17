@@ -1,0 +1,24 @@
+{
+    "hiperparams": "Namespace(datain='/home/waashk/e2sc-is/resources/datasets', dataset='aisopos_ntua_2L', end_time='03-05-2023 18:33:06', filename='/home/waashk/e2sc-is/resources/outsel/selection/aisopos_ntua_2L//saida_cnn', folds=10, inputdir='/home/waashk/e2sc-is/resources/datasets/aisopos_ntua_2L/tfidf/', inputrep='tfidf', method='cnn', out='/home/waashk/e2sc-is/resources/outsel', outputdir='/home/waashk/e2sc-is/resources/outsel/selection/aisopos_ntua_2L/', overwrite=0, save=True, splitdir='/home/waashk/e2sc-is/resources/datasets/aisopos_ntua_2L/splits/', start_time='03-05-2023 18:33:05')",
+    "dataset": "aisopos_ntua_2L",
+    "method": "cnn",
+    "info": {
+        "reducion": [
+            0.464
+        ],
+        "time_for_reduce": [
+            0.7051761150360107
+        ],
+        "original_len": [
+            250
+        ],
+        "reduced_len": [
+            134
+        ],
+        "time_mean": 0.7051761150360107,
+        "reduction_mean": 0.464,
+        "reduced_len_mean": 134.0,
+        "original_len_mean": 250.0
+    },
+    "machine": "cypher"
+}
